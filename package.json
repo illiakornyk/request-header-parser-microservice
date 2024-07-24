@@ -1,0 +1,19 @@
+{
+  "name": "request-header-parser-microservice",
+  "version": "1.0.0",
+  "description": "A request header parser microservice built with Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./src/server.js"
+  },
+  "keywords": [
+    "request-header",
+    "parser",
+    "microservice",
+    "nodejs"
+  ],
+  "author": "Illia Kornyk",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
